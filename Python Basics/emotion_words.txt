@@ -1,0 +1,62 @@
+"The 6 pillars of all ML models"
+ 
+In 2017, I had no idea about ML. Now, AI/ML consumes my entire day. I consider myself a serious ML person. Here is my story of how I transitioned from a core mechanical engineering background.
+ 
+2017: Graduated from IIT Madras with dual degree in Mechanical Engineering
+ 
+2017: Joined MIT for a PhD in Mechanical Engineering
+ 
+2017-19: Years 1-2 of PhD at MIT. Purely experimental work, zero ML 
+
+2019: Decided to transition to ML
+ 
+2019-21: Incorporated ML into the research + course-work + projects at MIT
+ 
+2021: Built an AI + Robotics integrated self-cleaning solar panel
+ 
+2021: Reached out by NASA for technology partnership 
+
+2022: Defended PhD at MIT 
+
+2022: Co-founded Vizuara AI Labs with Dr. Raj Abhijit Dandekar and Dr. Rajat Dandekar 
+
+Now I am doing 5 things in AI
+→ Learning AI
+→ Conducting research
+→ Publishing papers
+→ Building AI products
+→ Teaching AI 
+ 
+I do spend a good amount of time in AI/ML - learning, research, building products, and teaching. 
+
+Yet I realize that it is humanly impossible to keep track of every single thing happening in the AI space. 
+
+But I realize that there is one thing constant and timeless: foundational knowledge. Foundational knowledge transcends time. 
+
+It makes you so confident no matter what the noise around you sounds like. 
+
+Irrespective of how much AI changes, these fundamentals remain the same: 
+→ Linear Algebra, 
+→ Calculus, 
+→ Probability, 
+→ Statistics, 
+→ Optimization and 
+→ Programming fundamentals. 
+
+So does it mean that if you know these topics alone, you know AI? Absolutely not. 
+
+If you have just the foundation, do you have a house? No. But you can't build a good house without a strong foundation. 
+
+Consider ML to be that house atop the foundation of Calculus, Statistics, Linear Algebra, Probability, Optimization, and programming fundamentals.
+ 
+From my experience, I have 3 realizations
+ 
+1) The way traditional ML is taught is not correct for engineers. There should be tremendous emphasis on foundational knowledge.
+ 
+2) I had the inner belief that I can make the transition to ML. Now I realize that students from any field can transition to ML. 
+ 
+3) There should be a lot of emphasis on research. Instead of toy kaggle projects, focus strongly on research. 
+ 
+Anything good in life happens at the end of hard work. Anything sustainable and long-term takes time to build.
+ 
+If you want to become a serious ML engineer, build strong foundations first.
